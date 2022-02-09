@@ -55,7 +55,7 @@
         
         <div class="col-md-12 text-center">
         <form class="form-inline my-2 my-lg-0">
-      <button class="btn-evolucoes my-2 my-sm-0" type="submit">Veja Mais Evoluções</button>
+      <button class="btn-evolucoes my-2 my-sm-0" type="submit">Veja Mais Evoluções -></button>
          </form>
         </div>
        
