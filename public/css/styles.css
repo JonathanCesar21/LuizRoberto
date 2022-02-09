@@ -49,6 +49,12 @@ body{
 
 }
 
+.btn-consulta:hover{
+   transition:all 0.6s;
+   transform:scale(1.15,1.20);
+   
+}
+
 .paciente-img img{
     width: 250px;
     height: 300px;
@@ -138,9 +144,18 @@ body{
 }
 
 .img-insta img{
-    width: 200px;
-    margin: 20px;
+    width: 180px;
+    margin: 30px;
+    transition:all 0.6s;
+    
 }
+
+
+.img-insta img:hover{
+   transition:all 0.6s;
+   transform:scale(1.25,1.25);
+}
+
 
 .bg-color{
     background-color: #1F2A34;
@@ -171,6 +186,7 @@ body{
     border: 2px solid transparent;
     border-radius: 50px;
     font-size: 25px;
+    margin-top: 20px;
     
 }
 

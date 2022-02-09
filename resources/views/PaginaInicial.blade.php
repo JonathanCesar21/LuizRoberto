@@ -55,7 +55,7 @@
         
         <div class="col-md-12 text-center">
         <form class="form-inline my-2 my-lg-0">
-      <button class="btn-evolucoes my-2 my-sm-0" type="submit">Veja Mais Evoluções -></button>
+      <button class="btn-evolucoes my-2 my-sm-0" type="submit">Veja Mais Evoluções</button>
          </form>
         </div>
        
@@ -87,7 +87,7 @@
         </div>
         <div class="col-md-12 text-center">
         <form class="form-inline my-2 my-lg-0">
-      <button class="btn-instagram my-2 my-sm-0" type="submit">Acesse meu Instagram</button>
+      <button class="btn-instagram" type="submit">Acesse meu Instagram</button>
          </form>
         </div>
     </div>
