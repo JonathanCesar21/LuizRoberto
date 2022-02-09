@@ -24,9 +24,6 @@ body{
    
 }
 
-.img-bg-home img{
-    filter: blur(1px);
- }
 
 .bg-card{
    background-color:  #B6CABA;
@@ -325,3 +322,46 @@ transition: all 250ms ease-in-out 0s;
     color: #ffffff;
 }
 
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 2px solid !important;
+    border-radius: 0.25rem;
+    border-color: #0C9953 !important;
+    transition: box-shadow .15s ease-in-out;
+}
+
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+     box-shadow: 0 0 0 0.0rem !important; 
+}
+
+.btn-outline-green {
+    color: #0C9953;
+    border-color: #0C9953;
+}
+/* Media Query's */
+@media (min-width: 360px) and (max-width: 360px){
+    .luiz-img img{
+        width: 250px !important;
+        height: 250px !important;
+    }
+    .maps-iframe iframe{
+        width: 360px;
+        height: 500px;
+    }
+}
+
+@media (max-width: 393px){
+    .luiz-img img{
+        width: 250px !important;
+        height: 250px !important;
+    }
+    .maps-iframe iframe{
+        width: 393px;
+        height: 500px;
+    }
+}

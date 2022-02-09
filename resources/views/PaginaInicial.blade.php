@@ -2,7 +2,7 @@
 @section('title', 'Luiz Roberto Nutri')
 @section('content')
 
-<div class="container-flex img-bg-home  text-banner">
+<div class="container-flex img-bg-home text-banner">
     <div class="row">
         <div class="col-md-12 text-center">
             <h2>QUER MUDAR SEU ESTILO DE VIDA?</h2>
