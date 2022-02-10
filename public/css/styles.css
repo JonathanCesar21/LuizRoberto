@@ -54,7 +54,7 @@ body{
 
 .paciente-img img{
     width: 250px;
-    height: 300px;
+    height: 350px;
     border-style: solid;
     border-color: #fff;
     margin: 5px;
@@ -99,6 +99,7 @@ body{
 .luiz-img img{
     width: 400px;
     height: 350px;
+    border-radius: 10px;
 }
 
 .logo-img img{
@@ -197,6 +198,10 @@ body{
     border-color: #198754;
     
 }
+
+
+
+
 /*Whatsapp button*/
 .float{
 	position:fixed;
